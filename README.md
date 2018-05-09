@@ -6,7 +6,7 @@ Proposition de feuille de route pour l'établissement d'un pipeline de déploiem
 Ce plan est applicable dans le cadre d’une startup, et peut être mis en place de manière progressive.
 
 
-[La présentation peut être téléchargée ici.](https://github.com/remipassmoilesel/ci-cd-plan/blob/master/ci-cd-plan.odp?raw=true)
+[La présentation peut être téléchargée ici.](https://github.com/remipassmoilesel/ci-cd-plan/blob/master/ci-cd-plan.pdf?raw=true)
 
 
 Travail en cours.
